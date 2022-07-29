@@ -7,9 +7,4 @@ int main(){
 }
 
 
-asd
-__attribute_used__asd
-asd
-asmdas
-daddr_tasd
-sadsa
+kiki anda sabrozo
